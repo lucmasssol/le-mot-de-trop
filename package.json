@@ -1,0 +1,12 @@
+{
+  "name": "le-mot-de-trop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Un jeu de mots et de bluff sur un téléphone partagé.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
